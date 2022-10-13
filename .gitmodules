@@ -1,0 +1,12 @@
+[submodule "plugins/ranger-gitplug"]
+	path = plugins/ranger-gitplug
+	url = https://github.com/Jxstxs/ranger-gitplug.git
+[submodule "plugins/ranger-archives"]
+	path = plugins/ranger-archives
+	url = https://github.com/maximtrp/ranger-archives.git
+[submodule "plugins/ranger-devicons2"]
+	path = plugins/ranger-devicons2
+	url = https://github.com/cdump/ranger-devicons2.git
+[submodule "plugins/ranger-fzf-filter"]
+	path = plugins/ranger-fzf-filter
+	url = https://github.com/MuXiu1997/ranger-fzf-filter.git
